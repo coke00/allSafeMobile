@@ -18,5 +18,10 @@
         android:icon="@drawable/entrega"
         android:enabled="true"
         android:title="Entrega"/>
+    <item
+        android:id="@+id/firma"
+        android:icon="@drawable/entrega"
+        android:enabled="true"
+        android:title="Firmar"/>
 
 </menu>
